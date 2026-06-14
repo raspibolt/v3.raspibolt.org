@@ -4,6 +4,8 @@ title: Raspberry Pi
 nav_order: 20
 has_children: true
 ---
+
+{% include include_deprecated-notice.md %}
 <!-- markdownlint-disable MD014 MD022 MD025 MD040 -->
 {% include include_metatags.md %}
 

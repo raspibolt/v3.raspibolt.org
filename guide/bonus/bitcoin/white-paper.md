@@ -8,6 +8,8 @@ has_children: false
 has_toc: false
 ---
 
+{% include include_deprecated-notice.md %}
+
 ## Bonus guide: Download the bitcoin whitepaper directly from your own blockchain
 {: .no_toc }
 

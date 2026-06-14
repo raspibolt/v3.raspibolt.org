@@ -4,6 +4,8 @@ title: Blockchain explorer
 nav_order: 40
 parent: Bitcoin
 ---
+
+{% include include_deprecated-notice.md %}
 <!-- markdownlint-disable MD014 MD022 MD025 MD033 MD036 MD040 -->
 
 # Blockchain explorer

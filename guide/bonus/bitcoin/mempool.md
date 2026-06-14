@@ -8,6 +8,8 @@ has_children: false
 has_toc: false
 ---
 
+{% include include_deprecated-notice.md %}
+
 ## Bonus guide: The Mempool Open Source Project
 {: .no_toc }
 

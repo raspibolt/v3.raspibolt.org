@@ -1,5 +1,5 @@
 #theme: jekyll-theme-minimal
-remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs@e7f9805cf7f4763701d988185d2779aa8e946d5e
 search_enabled: true
 aux_links:
     "Issues / Knowledge Base":

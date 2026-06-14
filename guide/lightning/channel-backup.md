@@ -4,6 +4,8 @@ title: Channel backup
 nav_order: 20
 parent: Lightning
 ---
+
+{% include include_deprecated-notice.md %}
 <!-- markdownlint-disable MD014 MD022 MD025 MD033 MD040 -->
 # Channel backup
 {: .no_toc }

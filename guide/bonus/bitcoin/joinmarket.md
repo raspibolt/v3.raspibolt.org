@@ -6,6 +6,8 @@ grand_parent: Bonus Section
 nav_exclude: true
 has_toc: false
 ---
+
+{% include include_deprecated-notice.md %}
 <!-- markdownlint-disable MD014 MD022 MD025 MD033 MD040 -->
 # Bonus guide: JoinMarket clientserver
 {: .no_toc }

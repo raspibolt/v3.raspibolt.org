@@ -4,6 +4,8 @@ title: Mobile app
 nav_order: 60
 parent: Lightning
 ---
+
+{% include include_deprecated-notice.md %}
 <!-- markdownlint-disable MD014 MD022 MD025 MD033 MD040 -->
 # Mobile app
 {: .no_toc }

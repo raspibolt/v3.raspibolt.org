@@ -4,6 +4,8 @@ title: Lightning
 nav_order: 40
 has_children: true
 ---
+
+{% include include_deprecated-notice.md %}
 <!-- markdownlint-disable MD014 MD022 MD025 MD040 -->
 {% include include_metatags.md %}
 

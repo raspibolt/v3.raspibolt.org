@@ -3,6 +3,8 @@ layout: default
 title: FAQ
 nav_order: 220
 ---
+
+{% include include_deprecated-notice.md %}
 # Frequently Asked Questions
 {: .no_toc }
 

@@ -7,6 +7,8 @@ nav_exclude: true
 has_toc: false
 ---
 
+{% include include_deprecated-notice.md %}
+
 ## Bonus guide: Zap iOS Lightning Wallet
 {: .no_toc }
 

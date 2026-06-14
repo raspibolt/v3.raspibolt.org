@@ -7,6 +7,8 @@ nav_exclude: true
 has_toc: false
 ---
 
+{% include include_deprecated-notice.md %}
+
 ## Bonus Guide: Boot from microSD instead of external drive
 {: .no_toc }
 

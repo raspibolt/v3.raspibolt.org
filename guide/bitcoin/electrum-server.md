@@ -4,6 +4,8 @@ title: Electrum server
 nav_order: 20
 parent: Bitcoin
 ---
+
+{% include include_deprecated-notice.md %}
 <!-- markdownlint-disable MD014 MD022 MD025 MD033 MD040 -->
 
 # Electrum server

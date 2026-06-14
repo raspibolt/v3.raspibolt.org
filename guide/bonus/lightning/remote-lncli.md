@@ -7,6 +7,8 @@ nav_exclude: true
 has_toc: false
 ---
 
+{% include include_deprecated-notice.md %}
+
 ## Bonus guide: Use `lncli` on a different computer
 {: .no_toc }
 

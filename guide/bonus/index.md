@@ -5,6 +5,8 @@ nav_order: 100
 has_children: true
 has_toc: false
 ---
+
+{% include include_deprecated-notice.md %}
 <!-- markdownlint-disable MD014 MD022 MD025 MD033 MD036 MD040 -->
 
 # Bonus Section

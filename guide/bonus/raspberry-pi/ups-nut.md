@@ -8,6 +8,8 @@ has_toc: false
 
 ---
 
+{% include include_deprecated-notice.md %}
+
 ## Bonus Guide: Configure NUT to safely shutdown your node
 {: .no_toc }
 

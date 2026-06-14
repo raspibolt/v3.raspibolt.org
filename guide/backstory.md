@@ -3,6 +3,8 @@ layout: default
 title: Backstory
 nav_order: 10
 ---
+
+{% include include_deprecated-notice.md %}
 <!-- markdownlint-disable MD014 MD022 MD025 MD040 -->
 {% include include_metatags.md %}
 

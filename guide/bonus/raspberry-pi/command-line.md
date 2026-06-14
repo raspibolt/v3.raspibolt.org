@@ -7,6 +7,8 @@ nav_exclude: true
 has_toc: false
 ---
 
+{% include include_deprecated-notice.md %}
+
 ## Bonus guide: Pimp the command line
 {: .no_toc }
 

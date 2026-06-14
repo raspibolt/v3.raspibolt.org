@@ -4,6 +4,8 @@ title: Privacy
 nav_order: 50
 parent: Raspberry Pi
 ---
+
+{% include include_deprecated-notice.md %}
 <!-- markdownlint-disable MD014 MD022 MD025 MD033 MD040 -->
 {% include include_metatags.md %}
 

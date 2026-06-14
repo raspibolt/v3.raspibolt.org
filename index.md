@@ -3,6 +3,8 @@ layout: default
 title: Home
 nav_order: 1
 ---
+
+{% include include_deprecated-notice.md %}
 <!-- markdownlint-disable MD014 MD022 MD025 MD033 MD040 -->
 {% include include_metatags.md %}
 
